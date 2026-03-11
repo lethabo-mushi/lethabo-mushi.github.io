@@ -13,7 +13,7 @@
 - Explored thousands of titles to find patterns in movies vs TV shows.  
 - Visualized top genres, production countries, and release year trends.  
 - Built using **Python, Pandas, Matplotlib, Seaborn**.  
-![Netflix Analysis Screenshot](images/netflix_screenshot.png)
+
 
 ---
 
@@ -22,7 +22,7 @@
 - Analyzed job listings to uncover top roles and salary trends.  
 - Created interactive visualizations highlighting hiring patterns.  
 - Transformed raw data into **actionable insights**.  
-![Job Market Screenshot](images/job_market_screenshot.png)
+
 
 ---
 
@@ -31,7 +31,6 @@
 - Built an NLP app that scans resumes and detects technical skills.  
 - Calculates skill match scores and shows missing skills.  
 - Developed using **Python, spaCy, Streamlit**.  
-![Resume Analyzer Screenshot](images/resume_analyzer.png)
 
 ---
 
@@ -40,7 +39,7 @@
 - Interactive dashboard filtering jobs by experience level.  
 - Visualizes salary trends and top job titles with **Plotly & Streamlit**.  
 - Shows how data can drive **real-world decision making**.  
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+
 
 ---
 
